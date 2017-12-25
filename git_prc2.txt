@@ -1,0 +1,7 @@
+Python is a dynamically typed programming language designed by Guido Van Rossum. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research.
+
+ python
+
+Below are the available downloads for the latest version of Vagrant (2.0.1). Please download the proper package for your operating system and architecture.
+
+You can find the SHA256 checksums for Vagrant 2.0.1 online and you can verify the checksum's signature file , which has been signed using HashiCorp's GPG key. You can also download older versions of Vagrant from the releases service.
